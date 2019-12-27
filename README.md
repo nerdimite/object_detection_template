@@ -22,5 +22,6 @@ It is best to create a separate python/conda environment
 
 ## References
 * [Tensorflow Object Detection API Documentation by Lyudmil Vladimirov](https://tensorflow-object-detection-api-tutorial.readthedocs.io/)
-* [This Medium Post](https://towardsdatascience.com/detailed-tutorial-build-your-custom-real-time-object-detector-5ade1017fd2d)
+* [This Medium Post by Alaa Sinjab
+](https://towardsdatascience.com/detailed-tutorial-build-your-custom-real-time-object-detector-5ade1017fd2d)
 * [Racoon Detector by datitrain](https://github.com/datitran/raccoon_dataset)
