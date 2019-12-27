@@ -14,8 +14,8 @@ It is best to create a separate python/conda environment
 
 ## Usage
 
-1. `git clone https://github.com/theneuralbeing/object_detection.git`
-2. [Read this]() for gathering and annotating data
-3. Run the [Preprocess_Data.ipynb]() notebook on your computer
-4. After your data is ready, you can start training on colab. To do so [click here]() to directly open the training notebook on colab. The colab notebook contains all the further steps.
-5. After training, the trained inference graph will be downloaded to your computer and you can use the [`inference_webcam.py`](). (the steps for inference are also mentioned in the colab notebook)
+1. `git clone https://github.com/theneuralbeing/object_detection_template.git`
+2. [Read this](data_preprocessing/README.md) for gathering and annotating data
+3. Run the [Preprocess_Data.ipynb](data_preprocessing/Preprocess_Data.ipynb) notebook on your computer
+4. After your data is ready, you can start training on colab. To do so [click here](https://colab.research.google.com/github/theneuralbeing/object_detection_template/blob/master/object_detection_training.ipynb) to directly open the training notebook on colab. The colab notebook contains all the further steps.
+5. After training, the trained inference graph will be downloaded to your computer and you can use the [`inference_webcam.py`](inference_webcam.py). (the steps for inference are also mentioned in the colab notebook)
