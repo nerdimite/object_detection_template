@@ -21,6 +21,6 @@ It is best to create a separate python/conda environment
 5. After training, the trained inference graph will be downloaded to your computer and you can use the [`inference_webcam.py`](inference_webcam.py). (the steps for inference are also mentioned in the colab notebook)
 
 ## Resources
-[Tensorflow Object Detection API Documentation by Lyudmil Vladimirov](https://tensorflow-object-detection-api-tutorial.readthedocs.io/)
-[This Medium Post](https://towardsdatascience.com/detailed-tutorial-build-your-custom-real-time-object-detector-5ade1017fd2d)
-[Racoon Detector by datitrain](https://github.com/datitran/raccoon_dataset)
+* [Tensorflow Object Detection API Documentation by Lyudmil Vladimirov](https://tensorflow-object-detection-api-tutorial.readthedocs.io/)
+* [This Medium Post](https://towardsdatascience.com/detailed-tutorial-build-your-custom-real-time-object-detector-5ade1017fd2d)
+* [Racoon Detector by datitrain](https://github.com/datitran/raccoon_dataset)
